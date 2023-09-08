@@ -1,0 +1,129 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#home{
+    color: rgb(78, 76, 76);
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    margin-left: 300px;
+   
+}
+#login{
+    color: rgb(78, 76, 76);
+    text-decoration: none;
+    display: inline-block;
+    margin-left: 568px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+#account {
+ background-color: black;
+ color: white;
+ text-decoration: none;
+ padding: 10px;
+ display: inline-block;
+
+
+  
+}
+.hone{
+    max-width: 930px;
+     min-height: 230px;
+    background-color: rgb(255, 255, 205);
+    padding-top:40px;
+    padding-left: 40px;
+    margin-left: 200px;
+    position: relative;
+  
+}
+.para{
+    padding-bottom: 30px;
+    position: absolute;
+    top: 75px;
+    
+}
+#input{
+    width: 13rem;
+    height:2.5rem;
+    position: absolute;
+    top: 50px;
+    border: 1px solid  rgb(78, 76, 76);
+    border-radius: 5px;
+}
+#search{
+    height: 2.5rem;
+    width: 4.5rem;
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 220px;
+    top: 50px;
+    border-radius: 10%;
+}
+#your{
+    position: absolute;
+    top: 100px;
+    color: rgb(78, 76, 76);
+}
+section{
+    display: inline-block;
+    
+}
+article button{
+    width: 16.1rem ;
+    height: 2rem;
+    background-color: white;
+    color: black;
+    border: 1px solid grey;
+    margin-left: 18px;
+    margin-bottom: 10px;
+}
+article img{
+   width:16.7rem ;
+    height: 8rem;
+    margin-left: 12px;
+    margin-top: 12px;
+   
+}
+article{
+    width: 18.5rem;
+    border: 1px solid rgba(128, 128, 128, 0.696);
+}
+article h2{
+    font-size: medium;
+    font-weight:bold;
+    margin-top: 5px;
+    margin-left: 13px;
+}
+article p{
+    font-size: small;
+    margin-top: 5px ;
+    margin-left: 14px;
+    margin-bottom: 8px;
+}
+.p-1{
+    margin-left: 202px;
+    margin-top: 50px;
+}
+.p-2{
+margin-left: 15px;
+}
+.p-3{
+    margin-left: 15px;
+}
+.p-4{
+    margin-left: 202px;
+}
+.p-5{
+    margin-left: 15px;
+}
+.p-6{
+    margin-left: 15px;
+    margin-top: 15px;
+}
